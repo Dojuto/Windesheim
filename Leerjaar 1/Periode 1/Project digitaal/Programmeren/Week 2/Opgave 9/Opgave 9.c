@@ -4,17 +4,21 @@
 
 void main()
 {
-	int daltarief;
-	int piektarief = 
-	int leveringstarief = 80;
+	float daltarief = 0.40;
+	float piektarief = 0.46;
+	float leveringstarief = 80;
+	float dalverbruik;
+	float piekverbruik;
 
-	printf("Wat is uw daltarief in kwh:\n");
-	scanf("%d", daltarief);
+	printf("Wat is uw dalverbruik in kwh:\n");
+	scanf("%f", &dalverbruik);
 
-	printf("Wat is uw piektarief kwh:\n");
-	scanf("%d", piektarief);
+	printf("Wat is uw piekverbruik kwh:\n");
+	scanf("%f", &piekverbruik);
 
+	float totalekosten = (dalverbruik * daltarief) + (piekverbruik * piektarief) + leveringstarief;
+	
 	
 
-
+	printf("De totale elektriciteitskosten voor een jaar zijn: %.2f\n", totalekosten);
 }

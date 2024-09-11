@@ -1,0 +1,4 @@
+﻿  Opgave 9.c
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 9\Opgave 9.c(7,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 9\Opgave 9.c(8,21): warning C4305: 'initializing': truncation from 'double' to 'float'
+  Opgave 9.vcxproj -> C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 9\x64\Debug\Opgave 9.exe
