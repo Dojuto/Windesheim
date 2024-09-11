@@ -1,0 +1,6 @@
+﻿  Opgave 14.c
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 14\Opgave 14.c(8,74): warning C4101: 'antwoord3': unreferenced local variable
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 14\Opgave 14.c(8,52): warning C4101: 'kwadraat': unreferenced local variable
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 14\Opgave 14.c(8,62): warning C4101: 'imiginaire': unreferenced local variable
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 14\Opgave 14.c(8,44): warning C4101: 'wortel': unreferenced local variable
+  Opgave 14.vcxproj -> C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 14\x64\Debug\Opgave 14.exe

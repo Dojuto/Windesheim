@@ -1,0 +1,4 @@
+﻿  Opgave 11.c
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 11\Opgave 11.c(15,3): warning C4098: 'main': 'void' function returning a value
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 11\Opgave 11.c(21,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Opgave 11.vcxproj -> C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 2\Opgave 11\x64\Debug\Opgave 11.exe

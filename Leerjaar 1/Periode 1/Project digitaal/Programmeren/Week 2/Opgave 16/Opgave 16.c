@@ -4,21 +4,21 @@
 
 void main()
 {
-	int x;
+	double x;
 
 
 	printf("Vul hier een getal in:\n");
-	scanf("%d", &x);
+	scanf("%lf", &x);
 
 	if (x < 0.0) {
 		printf("Sorry, U moet een positief getal invullen.\n");
 		return 1;
 	}
 
-	printf("De wortel van alle gehele getallen tussen 0 en %d zijn:\n", x);
+	printf("De wortel van alle gehele getallen tussen 0 en %lf zijn:\n", x);
 
 	for (int i = 0; i <= (int)x; i++) {
-		int wortel = sqrt((int)i);
-		printf("Wortel van %d = %d\n", i, wortel);
+		double wortel = sqrt((double)i);
+		printf("Wortel van %d = %lf\n", i, wortel);
 	}
 }
