@@ -21,6 +21,4 @@ void main()
     else {
         printf("Het ingevoerde getal is niet positief. Probeer het opnieuw met een positief getal.\n");
     }
-
-
 }
