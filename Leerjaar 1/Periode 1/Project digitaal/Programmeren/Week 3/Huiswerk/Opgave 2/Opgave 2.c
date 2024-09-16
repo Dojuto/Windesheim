@@ -5,14 +5,18 @@
 
 void main() {
 	int a;
+	
 
 	printf("Vul hier een integer in: \n");
 	scanf("%d", &a);
 
-	if (a > 0) {
-		printf("Wat een mooi positief getal!");
-	} 
-	else if (a <= 0) {
-		printf("Dit is een negatief getal!");
+
+	if (a < 100) {
+		for (a * -2);
+		return 1;
 	}
+	else {
+		printf("Wat een mooi positief getal!!");
+	}
+	
 }
