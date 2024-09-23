@@ -4,19 +4,18 @@
 
 
 void main() {
-	int a;
+	int a = 0;
 	
 
 	printf("Vul hier een integer in: \n");
 	scanf("%d", &a);
 
-
-	if (a < 100) {
-		for (a * -2);
-		return 1;
+	if (a > 100) {
+		printf("Waar");
 	}
 	else {
-		printf("Wat een mooi positief getal!!");
+		while (a < 100) 
+			a = a * -2;
+			printf("a is nu %d \n", a);
 	}
-	
 }

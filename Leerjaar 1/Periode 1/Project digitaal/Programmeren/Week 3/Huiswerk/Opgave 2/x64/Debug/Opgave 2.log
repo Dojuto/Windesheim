@@ -1,4 +1,2 @@
 ﻿  Opgave 2.c
-C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 3\Huiswerk\Opgave 2\Opgave 2.c(15,14): error C2143: syntax error: missing ';' before ')'
-C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 3\Huiswerk\Opgave 2\Opgave 2.c(15,10): warning C4552: '*': result of expression not used
-C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 3\Huiswerk\Opgave 2\Opgave 2.c(16,3): warning C4098: 'main': 'void' function returning a value
+  Opgave 2.vcxproj -> C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 3\Huiswerk\x64\Debug\Opgave 2.exe
