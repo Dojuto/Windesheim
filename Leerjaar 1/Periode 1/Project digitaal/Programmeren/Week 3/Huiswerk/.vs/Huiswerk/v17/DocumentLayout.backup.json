@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 3\\Huiswerk\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8460E86F-F6A1-4737-9E10-2183C519A1AE}|Opgave 2\\Opgave 2.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 3\\Huiswerk\\Opgave 2\\Opgave 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8460E86F-F6A1-4737-9E10-2183C519A1AE}|Opgave 2\\Opgave 2.vcxproj|solutionrelative:Opgave 2\\Opgave 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{269FFC01-A552-444F-8702-AD3B2D9F15C3}|Project1\\Project1.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 3\\Huiswerk\\Project1\\Opgave 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{269FFC01-A552-444F-8702-AD3B2D9F15C3}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Opgave 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Opgave 2.c",
-              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 3\\Huiswerk\\Opgave 2\\Opgave 2.c",
-              "RelativeDocumentMoniker": "Opgave 2\\Opgave 2.c",
-              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 3\\Huiswerk\\Opgave 2\\Opgave 2.c",
-              "RelativeToolTip": "Opgave 2\\Opgave 2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Title": "Opgave 3.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 3\\Huiswerk\\Project1\\Opgave 3.c",
+              "RelativeDocumentMoniker": "Project1\\Opgave 3.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 3\\Huiswerk\\Project1\\Opgave 3.c",
+              "RelativeToolTip": "Project1\\Opgave 3.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-23T09:04:15.458Z",
+              "WhenOpened": "2024-09-23T10:01:29.343Z",
               "EditorCaption": ""
             }
           ]
