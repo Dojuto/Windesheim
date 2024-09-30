@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8BEC00F0-4C67-47D6-962C-2FC6E599B26C}|Aantekeningen\\Aantekeningen.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Aantekeningen\\Aantekeningen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8BEC00F0-4C67-47D6-962C-2FC6E599B26C}|Aantekeningen\\Aantekeningen.vcxproj|solutionrelative:Aantekeningen\\Aantekeningen.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B25B4DB0-0DE0-4F22-9B93-FE9D0F11360E}|Opgave 1\\Opgave 1.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 1\\Opgave 1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B25B4DB0-0DE0-4F22-9B93-FE9D0F11360E}|Opgave 1\\Opgave 1.vcxproj|solutionrelative:Opgave 1\\Opgave 1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aantekeningen.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Aantekeningen\\Aantekeningen.c",
+              "RelativeDocumentMoniker": "Aantekeningen\\Aantekeningen.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Aantekeningen\\Aantekeningen.c",
+              "RelativeToolTip": "Aantekeningen\\Aantekeningen.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-30T06:33:12.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Opgave 1.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 1\\Opgave 1.c",
+              "RelativeDocumentMoniker": "Opgave 1\\Opgave 1.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 1\\Opgave 1.c",
+              "RelativeToolTip": "Opgave 1\\Opgave 1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-30T06:33:02.854Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
