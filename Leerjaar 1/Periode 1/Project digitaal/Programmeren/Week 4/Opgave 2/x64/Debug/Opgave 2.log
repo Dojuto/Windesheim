@@ -1,0 +1,6 @@
+﻿  Opgave 2.c
+C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Opgave 2\Opgave 2.c(17,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (__cdecl *)()'
+C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Opgave 2\Opgave 2.c(17,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int (__cdecl *)()'
+C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Opgave 2\Opgave 2.c(19,1): warning C4717: 'aantalkeer': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Opgave 2\Opgave 2.c(19,1): warning C4716: 'aantalkeer': must return a value
+  Opgave 2.vcxproj -> C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\x64\Debug\Opgave 2.exe

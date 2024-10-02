@@ -18,5 +18,8 @@
     <ClCompile Include="Aantekeningen.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Aantekeingen1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

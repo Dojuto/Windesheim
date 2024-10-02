@@ -1,0 +1,4 @@
+﻿  Aantekeingen1.c
+C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Aantekeningen\Aantekeingen1.c(28,1): warning C4717: 'recursie': recursive on all control paths, function will cause runtime stack overflow
+C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Aantekeningen\Aantekeingen1.c(28,1): warning C4716: 'recursie': must return a value
+  Aantekeningen.vcxproj -> C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\x64\Debug\Aantekeningen.exe
