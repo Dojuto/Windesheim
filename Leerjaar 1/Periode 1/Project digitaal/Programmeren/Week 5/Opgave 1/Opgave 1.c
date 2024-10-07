@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <math.h>
 
+void kwadrateer(int a[], int lengte);
 
 void main()
 {
@@ -10,9 +11,19 @@ void main()
 	int c[10] = { 11,32,49,67,8,96,57,94,7,3 };
 	int d[10] = { 22,90,3,26,58,34,34,2,19,14 };
 	int e[10] = { 0 };
+	int lengte = 10;
+	
+
+	kwadrateer(a, 10);
+
+	for (int i = 0; i < lengte; i++)
+		printf("%d\n", a[i]);
 }
 
-void kwadrateer(int a[10]);
+void kwadrateer(int a[], int lengte)
 {
-	
+	for (int i = 0; i < lengte; i++)
+	{
+		a[i] = a[i] * a[i];
+	}
 }

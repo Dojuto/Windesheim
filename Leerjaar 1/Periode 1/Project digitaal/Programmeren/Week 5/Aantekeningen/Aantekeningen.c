@@ -23,12 +23,12 @@ void main()
 
 	
 
-	/*for (int i = 0; i < 5; i++)
+	for (int i = 0; i < 5; i++)
 	{
 		printf("Het %d e element is: %d\n", i, tabel[i]);
-	}*/
+	}
 	
 
 
-
+	*/
 
