@@ -14,5 +14,5 @@ void main()
 
 void kwadrateer(int a[10]);
 {
-
+	
 }
