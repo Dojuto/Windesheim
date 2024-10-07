@@ -2,16 +2,22 @@
 #include <stdio.h>
 #include <math.h>
 
-int aantalkeer(n);
+// Roep mijn functie aan
+void aantalkeer(int n);
+
 
 
 
 void main()
 {
-	int n = 0;
-	aantalkeer();
+	int l = 0;
+	aantalkeer(l);
+		
+	
 }
-int aantalkeer()
+
+//functie
+void aantalkeer(int n)
 {
 	n++;
 	printf("Hoevaak is de functie uitgeroepen: %d\n", aantalkeer);

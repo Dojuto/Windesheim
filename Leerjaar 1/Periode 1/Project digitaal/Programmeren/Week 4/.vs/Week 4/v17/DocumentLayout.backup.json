@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C7117348-8853-43BF-BE8E-AB714FE93387}|Opgave 2\\Opgave 2.vcxproj|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 2\\Opgave 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C7117348-8853-43BF-BE8E-AB714FE93387}|Opgave 2\\Opgave 2.vcxproj|solutionrelative:Opgave 2\\Opgave 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{959B4753-1286-49D1-B14A-73854A888B11}|Opgave 8\\Opgave 8.vcxproj|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 8\\Opgave 8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{959B4753-1286-49D1-B14A-73854A888B11}|Opgave 8\\Opgave 8.vcxproj|solutionrelative:Opgave 8\\Opgave 8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{94304413-9089-405B-9F05-984FF772029A}|Opgave 5 correct\\Opgave 5 correct.vcxproj|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 5 correct\\Opgave 5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{94304413-9089-405B-9F05-984FF772029A}|Opgave 5 correct\\Opgave 5 correct.vcxproj|solutionrelative:Opgave 5 correct\\Opgave 5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7117348-8853-43BF-BE8E-AB714FE93387}|Opgave 2\\Opgave 2.vcxproj|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 2\\Opgave 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{C7117348-8853-43BF-BE8E-AB714FE93387}|Opgave 2\\Opgave 2.vcxproj|solutionrelative:Opgave 2\\Opgave 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA8D0FBB-A451-4201-90F6-08D5E876C3C9}|Opgave 7\\Opgave 7.vcxproj|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 7\\Opgave 7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Opgave 8.c",
               "DocumentMoniker": "C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 8\\Opgave 8.c",
               "RelativeDocumentMoniker": "Opgave 8\\Opgave 8.c",
@@ -42,6 +42,7 @@
               "RelativeToolTip": "Opgave 8\\Opgave 8.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 =======
 <<<<<<< HEAD
@@ -51,17 +52,21 @@
               "WhenOpened": "2024-10-02T14:56:01.397Z",
               "EditorCaption": ""
 >>>>>>> 9f31459a2e37c79845bd059b6280f43da591e89d
+=======
+              "WhenOpened": "2024-10-02T14:56:01.397Z"
+>>>>>>> Stashed changes
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Opgave 2.c",
               "DocumentMoniker": "C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 2\\Opgave 2.c",
               "RelativeDocumentMoniker": "Opgave 2\\Opgave 2.c",
               "ToolTip": "C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 2\\Opgave 2.c",
               "RelativeToolTip": "Opgave 2\\Opgave 2.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
               "WhenOpened": "2024-10-02T14:42:12.746Z"
 =======
@@ -70,6 +75,10 @@
 =======
               "WhenOpened": "2024-10-02T14:42:12.746Z"
 >>>>>>> 9f31459a2e37c79845bd059b6280f43da591e89d
+>>>>>>> Stashed changes
+=======
+              "WhenOpened": "2024-10-02T14:42:12.746Z",
+              "EditorCaption": ""
 >>>>>>> Stashed changes
             },
             {
@@ -92,7 +101,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Opgave 5.c",
               "DocumentMoniker": "C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 4\\Opgave 5 correct\\Opgave 5.c",
               "RelativeDocumentMoniker": "Opgave 5 correct\\Opgave 5.c",

@@ -1,4 +1,4 @@
 ﻿  Opgave 2.c
-C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Opgave 2\Opgave 2.c(16,2): error C2065: 'n': undeclared identifier
-C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Opgave 2\Opgave 2.c(17,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'int (__cdecl *)()'
-C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Opgave 2\Opgave 2.c(17,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'int (__cdecl *)()'
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Opgave 2\Opgave 2.c(23,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'void (__cdecl *)(int)'
+C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\Opgave 2\Opgave 2.c(23,9): warning C4313: 'printf': '%d' in format string conflicts with argument 1 of type 'void (__cdecl *)(int)'
+  Opgave 2.vcxproj -> C:\Users\Dojuto\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 4\x64\Debug\Opgave 2.exe
