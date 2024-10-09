@@ -10,6 +10,8 @@
 
 int main(void)
 {
+	//PORTA.DIRSET = 0100000001
+	//PORTA.DIR |= 
 	PORTA.DIR = PORTA.DIR | 0xF0;
 	PORTF.DIR = PORTF.DIR | 0x0C;
 
