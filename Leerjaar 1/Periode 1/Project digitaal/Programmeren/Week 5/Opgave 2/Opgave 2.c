@@ -26,3 +26,4 @@ int optellen(int a[], int lengte)
 	}
 	return som;
 }
+//test
