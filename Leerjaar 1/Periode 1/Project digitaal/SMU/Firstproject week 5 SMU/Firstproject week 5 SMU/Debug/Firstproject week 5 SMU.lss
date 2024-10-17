@@ -135,13 +135,13 @@ int main(void)
  124:	22 70       	andi	r18, 0x02	; 2
  126:	30 e0       	ldi	r19, 0x00	; 0
 		
-		uint8_t led_status = sw2_status && (sw1_status||!sw3_status);
+		uint8_t led_status = sw2_status && (sw1_status||sw3_status);
  128:	42 fd       	sbrc	r20, 2
  12a:	06 c0       	rjmp	.+12     	; 0x138 <main+0x2c>
  12c:	89 2b       	or	r24, r25
  12e:	31 f0       	breq	.+12     	; 0x13c <main+0x30>
  130:	23 2b       	or	r18, r19
- 132:	31 f4       	brne	.+12     	; 0x140 <main+0x34>
+ 132:	31 f0       	breq	.+12     	; 0x140 <main+0x34>
  134:	80 e0       	ldi	r24, 0x00	; 0
  136:	05 c0       	rjmp	.+10     	; 0x142 <main+0x36>
  138:	80 e0       	ldi	r24, 0x00	; 0

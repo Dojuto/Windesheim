@@ -21,7 +21,7 @@ int main(void)
 		uint8_t sw2_status = !(PORTE.IN & PIN2_bm);
 		uint8_t sw3_status = !(PORTE.IN & PIN1_bm);
 		
-		uint8_t led_status = sw2_status && (sw1_status||!sw3_status);
+		uint8_t led_status = sw2_status && (sw1_status||sw3_status);
 		if (led_status)
 		{ PORTE.OUTSET = PIN0_bm; 
 			} 
