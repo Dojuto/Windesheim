@@ -1,15 +1,24 @@
 {
   "ExpandedNodes": [
     "",
+<<<<<<< Updated upstream
     "\\Aantekeningen",
     "\\Opgave 1",
     "\\Opgave 2",
+=======
+>>>>>>> Stashed changes
     "\\Opgave 3 correct",
     "\\Opgave 4",
     "\\Opgave 5",
     "\\Opgave 6",
+    "\\Opgave 7",
+    "\\Opgave 8",
     "\\x64"
   ],
+<<<<<<< Updated upstream
   "SelectedNode": "\\Opgave 2\\Opgave 2.c",
+=======
+  "SelectedNode": "\\Opgave 3 correct\\Opgave 3.c",
+>>>>>>> Stashed changes
   "PreviewInSolutionExplorer": false
 }
