@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31590C19-E339-40FB-A5B7-076FBF617632}|Prime counter\\Prime counter.vcxproj|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\Prime counter\\Priem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{31590C19-E339-40FB-A5B7-076FBF617632}|Prime counter\\Prime counter.vcxproj|solutionrelative:Prime counter\\Priem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\Pointers\\Pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Pointers\\Pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4CBC217B-A856-4842-BAC5-3AC4C8BDFEB2}|Pointers\\Pointers.vcxproj|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\Pointers\\Pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4CBC217B-A856-4842-BAC5-3AC4C8BDFEB2}|Pointers\\Pointers.vcxproj|solutionrelative:Pointers\\Pointer.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\Prime counter\\Priem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Prime counter\\Priem.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E23CA626-2461-4ADF-B70A-6AD17D31D6E3}|Intro\\Intro.vcxproj|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\Intro\\Intro.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{E23CA626-2461-4ADF-B70A-6AD17D31D6E3}|Intro\\Intro.vcxproj|solutionrelative:Intro\\Intro.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\Intro\\Intro.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Intro\\Intro.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Priem.c",
               "DocumentMoniker": "C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\Prime counter\\Priem.c",
               "RelativeDocumentMoniker": "Prime counter\\Priem.c",
               "ToolTip": "C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\Prime counter\\Priem.c",
               "RelativeToolTip": "Prime counter\\Priem.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-02T15:06:43.026Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Pointer.c",
               "DocumentMoniker": "C:\\Users\\Dojuto\\source\\repos\\Windesheim\\Leer C program\\Pointers\\Pointer.c",
               "RelativeDocumentMoniker": "Pointers\\Pointer.c",
@@ -60,8 +60,7 @@
               "RelativeToolTip": "Intro\\Intro.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-02T13:32:32.556Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-02T13:32:32.556Z"
             }
           ]
         }

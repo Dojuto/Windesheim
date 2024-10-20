@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Aantekeningen\\Tentamen.c",
               "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 6\\Aantekeningen\\Tentamen.c",
               "RelativeToolTip": "Aantekeningen\\Tentamen.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAC8AAABgAQAAAIApwDUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-10-14T07:45:47.964Z",
               "EditorCaption": ""
@@ -45,9 +45,10 @@
               "RelativeDocumentMoniker": "Aantekeningen\\Enum.c",
               "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Week 6\\Aantekeningen\\Enum.c",
               "RelativeToolTip": "Aantekeningen\\Enum.c",
-              "ViewState": "AgIAABQAAABAMzMzM3MvwBcAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-14T07:11:57.752Z"
+              "WhenOpened": "2024-10-14T07:11:57.752Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "Aantekeningen\\Aantekeningen.c",
               "ViewState": "AgIAAFEAAACAmZmZmRkWwFkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-10-14T06:33:19.927Z"
+              "WhenOpened": "2024-10-14T06:33:19.927Z",
+              "EditorCaption": ""
             }
           ]
         }
