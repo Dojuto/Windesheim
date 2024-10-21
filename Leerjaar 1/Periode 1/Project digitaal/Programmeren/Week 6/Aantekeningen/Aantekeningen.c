@@ -1,5 +1,5 @@
 
-/*#include <stdio.h>
+#include <stdio.h>
 
 void bits(int x);
 void binair(int bin);
@@ -87,4 +87,3 @@ void binair(int bin)
 //00110110 54
 //11001010 -54
 
-*/
