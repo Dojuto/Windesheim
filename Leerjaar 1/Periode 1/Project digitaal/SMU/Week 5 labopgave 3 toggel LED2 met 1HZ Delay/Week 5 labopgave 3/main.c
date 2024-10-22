@@ -16,7 +16,7 @@ int main(void)
     while (1) 
     {
 		PORTE.OUTTGL = PIN0_bm;
-		_delay_ms(1000);
+		_delay_ms(2000);
 		
     }
 }

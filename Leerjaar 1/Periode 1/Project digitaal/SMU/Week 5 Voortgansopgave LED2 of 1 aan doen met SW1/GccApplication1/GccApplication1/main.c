@@ -1,24 +1,32 @@
+
+
 #include <avr/io.h>
 #include <stdbool.h>
+#include <util/delay.h> 
 
 int main(void)
 {
-	// |= Bitje hoog
-	// &=~ Bitje laag
-	// ^= Toggle bit
-	//PORTE.DIR |= PIN0_bm;
-	PORTE.DIR &= ~(0b00001110); // Zet pinnen 1, 2, 3 als invoer wordt automatisch al gedaan
-	//PORTD.DIR |= 0b00100000; // Zet pin 5 als uitvoer Led 1
-	PORTE.DIR |= 0b00000001; // Zet pin 0 als uitvoer Led 2
+	
+	
+	// Zet pin 0 van poort E als uitvoer (LED 2)
+	PORTE.DIR |= PIN0_bm;
 
-	bool last_sw1_status = false;
+	bool last_sw2_status = false;
 	bool led_state = false;
 
 	while (1)
 	{
-		uint8_t sw1_status = !(PORTE.IN & PIN3_bm); // Lees de status van schakelaar 1
+		// Lees de status van schakelaar 2 en debounce
+		bool sw2_status = !(PORTE.IN & PIN2_bm); // Activeer bij lage invoer
 
-		if (sw1_status && !last_sw1_status) // Detecteer de stijgende flank
+		// Debounce: wacht even en lees opnieuw om te controleren
+		if (sw2_status)
+		{
+			_delay_ms(50); // Wacht 50 milliseconden
+			sw2_status = !(PORTE.IN & PIN2_bm); // Lees opnieuw
+		}
+
+		if (sw2_status && !last_sw2_status) // Detecteer de stijgende flank
 		{
 			led_state = !led_state; // Wissel de toestand van de LED
 			if (led_state)
@@ -31,6 +39,6 @@ int main(void)
 			}
 		}
 
-		last_sw1_status = sw1_status; // Sla de huidige status van schakelaar 1 op
+		last_sw2_status = sw2_status; // Sla de huidige status van schakelaar 2 op
 	}
 }
