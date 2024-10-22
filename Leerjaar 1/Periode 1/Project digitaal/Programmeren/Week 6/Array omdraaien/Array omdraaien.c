@@ -14,7 +14,7 @@ void main()
 	int e[10] = { 0 };
 	int lengte = 10;
 
-
+	
 	omdraaien(a, 10);
 
 	

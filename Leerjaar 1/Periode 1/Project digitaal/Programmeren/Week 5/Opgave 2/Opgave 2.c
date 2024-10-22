@@ -23,7 +23,7 @@ int optellen(int a[], int lengte)
 	int som = 0;
 	for (int i = 0; i < lengte; i++)
 	{
-		som += a[i];
+		som *= a[i];
 	}
 	return som;
 }

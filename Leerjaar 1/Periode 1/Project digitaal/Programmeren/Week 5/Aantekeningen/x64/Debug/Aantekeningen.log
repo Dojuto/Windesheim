@@ -1,4 +1,5 @@
 ﻿  Aantekeningen.c
   Pointers.c
   Generating Code...
-  Aantekeningen.vcxproj -> C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 5\x64\Debug\Aantekeningen.exe
+Pointers.obj : error LNK2005: main already defined in Aantekeningen.obj
+C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Week 5\x64\Debug\Aantekeningen.exe : fatal error LNK1169: one or more multiply defined symbols found
