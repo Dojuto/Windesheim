@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39134FC8-7E4D-4A13-A89D-0AB26967BF18}|Schaakbord\\Schaakbord.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Schaakbord\\Schaakbord.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{39134FC8-7E4D-4A13-A89D-0AB26967BF18}|Schaakbord\\Schaakbord.vcxproj|solutionrelative:Schaakbord\\Schaakbord.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038427DA-C1BC-490B-B1B8-6C2826546009}|Array links\\Array links.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Array links\\Array Links.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{038427DA-C1BC-490B-B1B8-6C2826546009}|Array links\\Array links.vcxproj|solutionrelative:Array links\\Array Links.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCCA103F-FE4B-4A34-9CF9-02098CC0AACD}|Array rechts\\Array rechts.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Array rechts\\Array rechts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FCCA103F-FE4B-4A34-9CF9-02098CC0AACD}|Array rechts\\Array rechts.vcxproj|solutionrelative:Array rechts\\Array rechts.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FFAAEB8-F8DC-4B43-840F-B59CF27DAFB3}|Opgave 5\\Opgave 5.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 5\\Opgave 5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7FFAAEB8-F8DC-4B43-840F-B59CF27DAFB3}|Opgave 5\\Opgave 5.vcxproj|solutionrelative:Opgave 5\\Opgave 5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57D2F105-4660-44A7-9D37-C22F499B277A}|Opgave 6\\Opgave 6.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 6\\Opgave 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{57D2F105-4660-44A7-9D37-C22F499B277A}|Opgave 6\\Opgave 6.vcxproj|solutionrelative:Opgave 6\\Opgave 6.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D4A4F92-90EE-4065-9F4F-94FFD9E337DE}|Opgave 4\\Opgave 4.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 4\\Opgave 4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1D4A4F92-90EE-4065-9F4F-94FFD9E337DE}|Opgave 4\\Opgave 4.vcxproj|solutionrelative:Opgave 4\\Opgave 4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A664C7F8-AF75-4A16-931E-CAD89C91B422}|Opgave 2\\Opgave 2.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 2\\Opgave 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A664C7F8-AF75-4A16-931E-CAD89C91B422}|Opgave 2\\Opgave 2.vcxproj|solutionrelative:Opgave 2\\Opgave 2.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1A7B1A-1883-44E0-961D-325D411B90E8}|Opgave 3\\Opgave 3.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 3\\Opgave 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD1A7B1A-1883-44E0-961D-325D411B90E8}|Opgave 3\\Opgave 3.vcxproj|solutionrelative:Opgave 3\\Opgave 3.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D48717-1EE8-40EF-BA85-46D3AC5938CF}|Opgave 1\\Opgave 1.vcxproj|C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 1\\Opgave 1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{55D48717-1EE8-40EF-BA85-46D3AC5938CF}|Opgave 1\\Opgave 1.vcxproj|solutionrelative:Opgave 1\\Opgave 1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Schaakbord.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Schaakbord\\Schaakbord.c",
+              "RelativeDocumentMoniker": "Schaakbord\\Schaakbord.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Schaakbord\\Schaakbord.c*",
+              "RelativeToolTip": "Schaakbord\\Schaakbord.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:58:17.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Array rechts.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Array rechts\\Array rechts.c",
+              "RelativeDocumentMoniker": "Array rechts\\Array rechts.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Array rechts\\Array rechts.c",
+              "RelativeToolTip": "Array rechts\\Array rechts.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:41:24.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Array Links.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Array links\\Array Links.c",
+              "RelativeDocumentMoniker": "Array links\\Array Links.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Array links\\Array Links.c",
+              "RelativeToolTip": "Array links\\Array Links.c",
+              "ViewState": "AgIAAAMAAAB4ZmZmZuYswBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:32:42.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Opgave 6.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 6\\Opgave 6.c",
+              "RelativeDocumentMoniker": "Opgave 6\\Opgave 6.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 6\\Opgave 6.c",
+              "RelativeToolTip": "Opgave 6\\Opgave 6.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:13:24.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Opgave 5.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 5\\Opgave 5.c",
+              "RelativeDocumentMoniker": "Opgave 5\\Opgave 5.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 5\\Opgave 5.c",
+              "RelativeToolTip": "Opgave 5\\Opgave 5.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:13:13.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Opgave 4.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 4\\Opgave 4.c",
+              "RelativeDocumentMoniker": "Opgave 4\\Opgave 4.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 4\\Opgave 4.c",
+              "RelativeToolTip": "Opgave 4\\Opgave 4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:13:05.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Opgave 3.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 3\\Opgave 3.c",
+              "RelativeDocumentMoniker": "Opgave 3\\Opgave 3.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 3\\Opgave 3.c",
+              "RelativeToolTip": "Opgave 3\\Opgave 3.c",
+              "ViewState": "AgIAAAgAAADAZ2ZmZmYUwBUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:12:55.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Opgave 2.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 2\\Opgave 2.c",
+              "RelativeDocumentMoniker": "Opgave 2\\Opgave 2.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 2\\Opgave 2.c",
+              "RelativeToolTip": "Opgave 2\\Opgave 2.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:12:47.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Opgave 1.c",
+              "DocumentMoniker": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 1\\Opgave 1.c",
+              "RelativeDocumentMoniker": "Opgave 1\\Opgave 1.c",
+              "ToolTip": "C:\\Users\\drost\\source\\repos\\Windesheim\\Leerjaar 1\\Periode 1\\Project digitaal\\Programmeren\\Oefententamen\\Opgave 1\\Opgave 1.c",
+              "RelativeToolTip": "Opgave 1\\Opgave 1.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-13T09:12:39.923Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

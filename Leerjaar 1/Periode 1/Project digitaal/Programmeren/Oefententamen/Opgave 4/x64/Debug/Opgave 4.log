@@ -1,0 +1,4 @@
+﻿  Opgave 4.c
+C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Oefententamen\Opgave 4\Opgave 4.c(12,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Oefententamen\Opgave 4\Opgave 4.c(25,9): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  Opgave 4.vcxproj -> C:\Users\drost\source\repos\Windesheim\Leerjaar 1\Periode 1\Project digitaal\Programmeren\Oefententamen\x64\Debug\Opgave 4.exe

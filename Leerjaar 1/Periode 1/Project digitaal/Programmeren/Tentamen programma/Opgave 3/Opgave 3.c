@@ -13,7 +13,7 @@ double faculteit(int num) {
 }
 
 
-// euler
+
 
 
 void main() {

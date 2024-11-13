@@ -5,7 +5,7 @@ void main()
 {
     int isKlinker = 0;
 	char letter;
-	char klinkers[5] = { 'a','e','i','o','u'};
+	char klinkers[5] = { '\','e','i','o','u'};
 	printf("Vul hier een letter in:");
 	scanf("%c", &letter);
 
