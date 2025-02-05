@@ -27,7 +27,7 @@ print2DArray(char* p[][8], int lengte, char* s1, char* s2) {
 	for (int i = 0; i < lengte; i++) {
 		for (int j = 0; j < lengte; j++) {
 			// printf("%d : %d : %c\n", i, j, p[i][j]);
-			printf("%c", p[i][j]);
+			printf("%c", *p[i][j]);
 		}
 		printf("\n");
 	}
