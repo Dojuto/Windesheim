@@ -1,0 +1,15 @@
+/*
+ * File:   2.2.1 Knop
+ * Author: drost
+ *
+ * Created on February 11, 2025, 12:33 PM
+ */
+
+
+#include <avr/io.h>
+
+int main(void) {
+    /* Replace with your application code */
+    while (1) {
+    }
+}
